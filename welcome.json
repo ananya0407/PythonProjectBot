@@ -1,0 +1,8 @@
+{
+    "attachments": [{
+        "mrkdwn_in": ["text"],
+        "author_name": "Add your calendar :calendar:",
+        "author_link": "https://link.tocalendar/",
+        "text": "Sync your calender to experience the best features of Reo bot."
+    }]
+}
